@@ -223,15 +223,6 @@ Led and contributed to multiple individual and group software projects covering 
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Mandinu999&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -245,15 +236,6 @@ Led and contributed to multiple individual and group software projects covering 
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Mandinu999/Mandinu999/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
